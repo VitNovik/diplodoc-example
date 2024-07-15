@@ -1,24 +1,25 @@
-# Basic "About page" 
+# Основная страница "О программе"
+
 Базовая страница.
 
-This is an example for basic documenation project.
-It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
+### Тут будет доп информация
 
-Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
-"https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
+Это пример проекта базовой документации.  
+Он содержит простую структуру с парой страниц (эта страница, другая страница) и вложенным подразделом.
 
-If you would like to extend your project - please refer to [YFM Project Organization guide](https://diplodoc.com/docs/en/project/)
+Diplodoc предоставляет вам уникальное название, с помощью которого можно получить доступ к этому проекту https://diplodoc.com например  
+, "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/"
 
-All changes for this project can be done within you public github repository called "diplodoc-example/docs". 
-To make changes and apply them: 
+Если вы хотите расширить свой проект, пожалуйста, ознакомьтесь с Руководством по организации проекта YFM
 
-- go to your repo under "diplodoc-example/docs" 
-- make changes for project structure or content
-- commit & push into your repository 
-- go to "Actions" tab for docs repository 
-- run "Release" action and wait till completion 
-- done, updates should be available for everyone. 
+Все изменения для этого проекта можно внести в вашем общедоступном репозитории на github под названием "diplodoc-example/docs".  
+Чтобы внести изменения и применить их:
 
+перейдите в свой репозиторий в разделе "diplodoc-example/docs",  
+внесите изменения в структуру проекта или содержимое,  
+зафиксируйте и загрузите в свой репозиторий  
+, перейдите на вкладку "Действия" для репозитория  
+документов, выполните действие "Выпустить" и дождитесь  
+завершения, обновления должны быть доступны для всех.
 
-In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
-
+В случае, если вы хотите установить прокси-сервер со своего собственного домена для этой документации, пожалуйста, свяжитесь с нами - мы окажем вам соответствующую поддержку до создания соответствующей документации.
